@@ -1,0 +1,32 @@
+.nav {
+  background-color: rgb(35, 100, 67);
+  height: 5em;
+  display:flex;
+  padding: 0.5rem;
+}
+
+.searchBar{
+  position: relative;
+  margin-right: 0.5em;
+  justify-content: end;
+  padding: 1rem;
+  width: 30%;
+}
+
+.barra {
+  display: flex;
+  align-content:center;
+  padding: 1rem;
+  width: 70%;
+}
+
+.items {
+ color: whitesmoke;
+ margin-inline: 20px;
+ text-decoration: none;
+ font-size: 1.5rem;
+ margin-top: 10px;
+}
+
+
+

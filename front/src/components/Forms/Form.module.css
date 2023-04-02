@@ -1,0 +1,18 @@
+.component {
+  height: 200px;
+  width: 30%;
+  background-color: rgb(181, 206, 197, 0.9);
+  color: black;
+  margin: auto;
+  margin-top: 200px;
+  padding: 5rem;
+  line-height: 50px;
+  font-size: x-large;
+  border-radius: 15px;
+  font-weight:500;
+}
+
+.error {
+    color: red;
+    font-size: medium;
+}
